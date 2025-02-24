@@ -1,0 +1,5 @@
+robotframework==7.2 # verifique a versão mais recente !!
+robotframework-seleniumlibrary==6.7.0 # verifique a versão mais recente !!
+robotframework-appiumlibrary==2.1.0 # verifique a versão mais recente !!
+robotframework-sikulilibrary==2.0.3 # verifique a versão mais recente !!
+robotframework-databaselibrary==2.0.4 # verifique a versão mais recente !!

@@ -1,0 +1,15 @@
+# Ignore log files
+*.log
+
+# Ignore HTML files
+*.html
+
+# Ignore output files
+*.out
+*.output
+
+# Ignore XML files
+*.xml
+
+# Ignore run_test.bat file
+run_test.bat
